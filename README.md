@@ -1,5 +1,5 @@
 # Automated-Trading-Api
-An old api project I built in python that is used by a neural network to make investment decisions
+An old api project I built in 2019 using python that is used by a neural network to make investment decisions
 
 # Use
 The neural network request data using functions in main.py  
